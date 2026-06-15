@@ -7,6 +7,11 @@ authors:
     orcid: https://orcid.org/0000-0001-9098-6309
     website: https://github.com/jmunroe # optional
     affiliation: Earthdata Associates # optional
+  - family-names: Guilment
+    given-names: thomas
+    orcid: https://orcid.org/0009-0003-8163-3976
+    website: https://github.com/tguilment
+    affiliation: University of Mississippi
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Geomorphology Cookbook"
