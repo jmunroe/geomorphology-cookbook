@@ -16,10 +16,9 @@ project:
     - title: Introduction
       children:
         - file: notebooks/seabed-morphology.ipynb
-        - file: notebooks/rasterio-intro.ipynb
+        - file: notebooks/rasterviz-intro.ipynb
     - title: Data story
       children:
-        - file: notebooks/DataVisualization.ipynb
         - file: notebooks/Metadata.ipynb
   jupyter:
       binder:
